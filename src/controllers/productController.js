@@ -1,8 +1,8 @@
 const mongoose = require("mongoose");
-const product = mongoose.model("product");
+const Product = mongoose.model("products");
 
 exports.getAllProducts = (req, res) => {
-  product.find().then(
+  Product.find().then(
     (products) => {
       res.send({ products });
     },
@@ -13,26 +13,19 @@ exports.getAllProducts = (req, res) => {
 };
 
 exports.create = (req, res) => {
-  // const newProduct = new product(req.body);
-  // newProduct.save((err, product) => {
-  //   if (err) res.send(err);
-  //   res.json(product);
-  // });
-
-  var newproduct = new product({
+  var newProduct = new Product({
     name: req.body.name,
     color: req.body.color,
     price: req.body.price,
   });
-  // result = User.addUser(user);
-  newproduct.save().then(
-    (newproduct) => {
-      res.send(newproduct);
-    },
-    (e) => {
+  newProduct
+    .save()
+    .then(() => {
+      res.send(newProduct);
+    })
+    .catch((e) => {
       res.status(400).send(e);
-    }
-  );
+    });
 };
 
 exports.getById = (req, res) => {
@@ -42,7 +35,7 @@ exports.getById = (req, res) => {
   // });
   var productId = req.params.productId;
 
-  product.findOne({ _id: productId }).then(
+  Product.findOne({ _id: productId }).then(
     (products) => {
       res.send(products);
     },
@@ -63,16 +56,15 @@ exports.update = (req, res) => {
   //   }
   // );
   const query = { _id: req.params.productId };
-  product
-    .findOneAndUpdate(
-      query,
-      {
-        name: req.body.name,
-        color: req.body.color,
-        price: req.body.price,
-      },
-      { upsert: true, new: true }
-    )
+  Product.findOneAndUpdate(
+    query,
+    {
+      name: req.body.name,
+      color: req.body.color,
+      price: req.body.price,
+    },
+    { upsert: true, new: true }
+  )
     .then((raw) => {
       res.send(raw);
     })
@@ -90,8 +82,7 @@ exports.delete = (req, res) => {
   //   });
   // });
   const query = { _id: req.params.productId };
-  product
-    .findOneAndRemove(query)
+  Product.findOneAndRemove(query)
     .then((raw) => {
       res.send(raw);
     })

@@ -18,7 +18,7 @@ const productSchema = new Schema(
     },
   },
   { versionKey: false },
-  { collection: "product" }
+  { collection: "products" }
 );
 
-module.exports = mongoose.model("product", productSchema);
+module.exports = mongoose.model("products", productSchema);
