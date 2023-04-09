@@ -8,4 +8,5 @@ const notificationSchema = new Schema({
     action: {
         type: action
     }
+    
 })

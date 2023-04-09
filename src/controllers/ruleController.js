@@ -1,8 +1,10 @@
 const mongoose = require("mongoose");
 const { rules } = require("../models/rule");
 const Rule = mongoose.model("rules");
-const moment = require("moment");
+// const moment = require("moment");
 const Time = require("../utils/time");
+const logger = require("../utils/winston/winston");
+const path = require("path");
 
 exports.getAllRules = (req, res) => {
   Rule.find().then(
@@ -42,8 +44,11 @@ exports.getById = (req, res) => {
     (data) => {
       res.send(data);
     },
-    (e) => {
-      res.status(400).send(e);
+    (err) => {
+      logger.error(
+        `[${path.basename(__filename, ".js")}.js][getById] error: ${err}`
+      );
+      res.status(400).send(err);
     }
   );
 };
