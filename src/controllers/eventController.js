@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+const { events } = require("../models/event");
 const Event = mongoose.model("events");
 
 exports.getAllEvents = (req, res) => {
@@ -13,7 +14,7 @@ exports.getAllEvents = (req, res) => {
 };
 
 exports.create = (req, res) => {
-  var newEvent = new Product({
+  var newEvent = new Event({
     name: req.body.name,
     camera: req.body.camera,
   });
@@ -42,7 +43,7 @@ exports.getById = (req, res) => {
 
 exports.update = (req, res) => {
   const query = { _id: req.params.eventId };
-  Product.findOneAndUpdate(
+  Event.findOneAndUpdate(
     query,
     {
       name: req.body.name,
@@ -60,7 +61,7 @@ exports.update = (req, res) => {
 
 exports.delete = (req, res) => {
   const query = { _id: req.params.eventId };
-  Product.findOneAndRemove(query)
+  Event.findOneAndRemove(query)
     .then((data) => {
       res.send(data);
     })

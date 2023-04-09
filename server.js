@@ -5,8 +5,10 @@ const bodyParser = require("body-parser");
 
 global.Product = require("./src/models/product");
 global.Event = require("./src/models/event");
+global.Rule = require("./src/models/rule");
 const productroutes = require("./src/routes/productRoute");
 const eventRoutes = require("./src/routes/eventRoute");
+const ruleRoutes = require("./src/routes/ruleRoute");
 const URL =
   "mongodb+srv://quangvt5:Qvt29092001.@cluster0.k0fqybm.mongodb.net/test?retryWrites=true&w=majority";
 
@@ -37,6 +39,7 @@ app.use(bodyParser.json());
 
 productroutes(app);
 eventRoutes(app);
+ruleRoutes(app);
 
 app.listen(port);
 
