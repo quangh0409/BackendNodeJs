@@ -1,7 +1,12 @@
-const mongoose = require("mongoose");
-const Staff = mongoose.model("staffs");
+//declaring library
 const express = require("express");
+const Staff = require('../models/staff');
+//using library
 const app = express();
+//set url, response
+app.use(express.json())
+
+//test login
 app.get("/login", (req, res) => {
     res.send("LOGIN");
   });
