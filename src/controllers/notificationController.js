@@ -1,10 +1,10 @@
 const mongoose = require("mongoose");
-const Rule = mongoose.model("rules");
+const Notification = mongoose.model("notifications");
 const path = require("path");
 const logger = require("../utils/winston/winston");
 
-exports.getAllRules = (req, res) => {
-  Rule.find().then(
+exports.getAllNotifications = (req, res) => {
+  Notification.find().then(
     (data) => {
       res.send({ data });
     },
@@ -15,19 +15,15 @@ exports.getAllRules = (req, res) => {
 };
 
 exports.create = (req, res) => {
-  var referenceTime = {
-    startTime: req.body.referenceTime.startTime,
-    endTime: req.body.referenceTime.endTime,
-  };
-  var newRule = new Rule({
-    name: req.body.name,
-    referenceTime: referenceTime,
-    referenceSpace: req.body.referenceSpace,
+  var newNotification = new Notification({
+    action: req.body.action,
+    staff: req.body.staff,
+    event: req.body.event,
   });
-  newRule
+  newNotification
     .save()
     .then(() => {
-      res.send(newRule);
+      res.send(newNotification);
     })
     .catch((e) => {
       res.status(400).send(e);
@@ -35,9 +31,9 @@ exports.create = (req, res) => {
 };
 
 exports.getById = (req, res) => {
-  var ruleId = req.params.ruleId;
+  var notificationId = req.params.notificationId;
 
-  Rule.findOne({ _id: ruleId }).then(
+  Notification.findOne({ _id: notificationId }).then(
     (data) => {
       res.send(data);
     },
@@ -51,13 +47,13 @@ exports.getById = (req, res) => {
 };
 
 exports.update = (req, res) => {
-  const query = { _id: req.params.ruleId };
-  Rule.findOneAndUpdate(
+  const query = { _id: req.params.notificationId };
+  Notification.findOneAndUpdate(
     query,
     {
-      name: req.body.name,
-      referenceTime: req.body.referenceTime,
-      referenceSpace: req.body.referenceSpace,
+      action: req.body.action,
+      staff: req.body.staff,
+      event: req.body.event,
     },
     { upsert: true, new: true }
   )
@@ -70,8 +66,8 @@ exports.update = (req, res) => {
 };
 
 exports.delete = (req, res) => {
-  const query = { _id: req.params.ruleId };
-  Rule.findOneAndRemove(query)
+  const query = { _id: req.params.notificationId };
+  Notification.findOneAndRemove(query)
     .then((data) => {
       res.send(data);
     })

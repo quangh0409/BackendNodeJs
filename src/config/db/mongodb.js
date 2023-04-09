@@ -5,8 +5,6 @@ const path = require("path");
 const URL =
   "mongodb+srv://quangvt5:Qvt29092001.@cluster0.k0fqybm.mongodb.net/test?retryWrites=true&w=majority";
 
-mongoose.Promise = global.Promise;
-
 function onError(err) {
   logger.error(
     `[${path.basename(

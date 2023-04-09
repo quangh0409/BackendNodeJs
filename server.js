@@ -4,20 +4,27 @@ const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
 const path = require("path");
 
+const mongodb = require("./src/config/db/mongodb");
+const logger = require("./src/utils/winston/winston");
+
 global.Product = require("./src/models/product");
 global.Event = require("./src/models/event");
 global.Rule = require("./src/models/rule");
+global.Staff = require("./src/models/staff");
+global.Action = require("./src/models/action");
+global.Notification = require("./src/models/notification");
+
+mongoose.Promise = global.Promise;
+
 const productroutes = require("./src/routes/productRoute");
 const eventRoutes = require("./src/routes/eventRoute");
 const ruleRoutes = require("./src/routes/ruleRoute");
-const URL =
-  "mongodb+srv://quangvt5:Qvt29092001.@cluster0.k0fqybm.mongodb.net/test?retryWrites=true&w=majority";
-const logger = require("./src/utils/winston/winston");
+const staffRoutes = require("./src/routes/staffRoute");
+const notificationRoutes = require("./src/routes/notificationRoute");
+const actionRoutes = require("./src/routes/actionRoute");
 
 const port = 8080;
 const app = express();
-
-mongoose.Promise = global.Promise;
 
 // Đăng ký middleware để log mỗi request tới server
 app.use((req, res, next) => {
@@ -25,27 +32,8 @@ app.use((req, res, next) => {
   next();
 });
 
-// const connectDB = async () => {
-//   try {
-//     await mongoose.connect(URL, {
-//       useNewUrlParser: true,
-//       useUnifiedTopology: true,
-//     });
-//     logger.info(
-//       `[${path.basename(__filename, ".js")}.js][my_function] Connected to mongoDB`
-//     );
-//     console.log("Connected to mongoDB");
-//   } catch (error) {
-//     console.log(error);
-//     process.exit(1);
-//   }
-// };
-
-// connectDB();
-
-const mongodb = require("./src/config/db/mongodb");
-
 mongodb();
+
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
@@ -53,16 +41,19 @@ app.use(bodyParser.json());
 productroutes(app);
 eventRoutes(app);
 ruleRoutes(app);
-
-// mongoose.set("debug", (collectionName, method, query, doc) => {
-//   logger.debug(`${collectionName}.${method}`, query, doc);
-// });
+staffRoutes(app);
+notificationRoutes(app);
+actionRoutes(app);
 
 app.listen(port);
 
 app.use((req, res) => {
+  logger.error(
+    `[${path.basename(__filename, ".js")}] url: ${req.originalUrl} not found`
+  );
   res.status(404).send({ url: `${req.originalUrl} not found` });
 });
+
 logger.info(
   `[${path.basename(__filename, ".js")}] Server started on port ${port}`
 );

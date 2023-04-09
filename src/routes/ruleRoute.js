@@ -7,7 +7,7 @@ module.exports = app => {
     .post(ruleBuilder.create);
 
   app
-    .route('/rules/:RuleId')
+    .route('/rules/:ruleId')
     .get(ruleBuilder.getById)
     .put(ruleBuilder.update)
     .delete(ruleBuilder.delete);

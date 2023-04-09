@@ -300,3 +300,85 @@ undefined
 [2023-04-09 17:28:58] [[33mwarn[39m] [mongodb.js][onReconnected] MongoDB Atlas reconnected!
 [2023-04-09 17:29:50] [[32minfo[39m] [server] Server started on port 8080
 [2023-04-09 17:29:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:09:28] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:09:29] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:25:35] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:25:36] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:26:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:26:06] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:26:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:26:17] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:26:26] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:26:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:26:37] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:26:38] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:26:42] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:26:42] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:26:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:26:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:26:58] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:26:59] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:27:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:27:01] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:27:03] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:27:04] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:27:08] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:27:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:27:13] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:27:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:27:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:27:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:27:40] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:27:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:27:47] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:27:49] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:27:50] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:27:52] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:27:53] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:27:58] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:27:59] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:28:04] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:28:05] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:28:29] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:28:30] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:28:31] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:28:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:28:34] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:29:22] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:29:23] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:29:25] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:29:26] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:29:38] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:29:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:29:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:29:41] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:30:26] [[32minfo[39m] [2023-04-09T11:30:26.849Z] GET /staffs
+[2023-04-09 18:30:26] [[34mdebug[39m] staffs.find
+[2023-04-09 18:33:12] [[32minfo[39m] [2023-04-09T11:33:12.459Z] PUT /actions/
+[2023-04-09 18:33:27] [[32minfo[39m] [2023-04-09T11:33:27.693Z] DELETE /actions/
+[2023-04-09 18:33:51] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:33:52] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:34:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:34:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:34:04] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:34:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:34:06] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:34:43] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 18:34:44] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 18:34:48] [[32minfo[39m] [2023-04-09T11:34:48.389Z] DELETE /actions/
+[2023-04-09 18:34:48] [[31merror[39m] [server] url: /actions/ not found
+[2023-04-09 18:35:05] [[32minfo[39m] [2023-04-09T11:35:05.254Z] DELETE /actions/as
+[2023-04-09 19:25:35] [[32minfo[39m] [2023-04-09T12:25:35.163Z] GET /notifications/
+[2023-04-09 19:25:35] [[34mdebug[39m] notifications.find
+[2023-04-09 19:26:21] [[32minfo[39m] [2023-04-09T12:26:21.690Z] GET /rules/3
+[2023-04-09 19:26:21] [[31merror[39m] [ruleController.js][getById] error: CastError: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "rules"
+[2023-04-09 19:26:28] [[32minfo[39m] [2023-04-09T12:26:28.625Z] GET /rules
+[2023-04-09 19:26:28] [[34mdebug[39m] rules.find
+[2023-04-09 19:43:57] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 19:43:57] [[33mwarn[39m] [mongodb.js][onReconnected] MongoDB Atlas reconnected!
+[2023-04-09 20:23:46] [[32minfo[39m] [2023-04-09T13:23:46.732Z] POST /rules
+[2023-04-09 20:23:46] [[34mdebug[39m] rules.insertOne
+[2023-04-09 20:23:59] [[32minfo[39m] [2023-04-09T13:23:59.179Z] PUT /rules/6432bc62c9523d0df83ba210
+[2023-04-09 20:23:59] [[34mdebug[39m] rules.findOneAndUpdate
+[2023-04-09 20:24:11] [[32minfo[39m] [2023-04-09T13:24:11.569Z] GET /staffs
+[2023-04-09 20:24:11] [[34mdebug[39m] staffs.find
