@@ -5,10 +5,14 @@ const bodyParser = require("body-parser");
 
 global.Product = require("./src/models/product");
 global.Event = require("./src/models/event");
+// global.Staff = require("./src/models/staff")
 const productroutes = require("./src/routes/productRoute");
 const eventRoutes = require("./src/routes/eventRoute");
-const URL =
-  "mongodb+srv://quangvt5:Qvt29092001.@cluster0.k0fqybm.mongodb.net/test?retryWrites=true&w=majority";
+// const staffRoutes = require("./src/routes/staffRoute");
+
+// const URL ="mongodb+srv://quangvt5:Qvt29092001.@cluster0.k0fqybm.mongodb.net/test?retryWrites=true&w=majority";
+const URL = "mongodb+srv://trang220:trang220@atlascluster.rnfhsgt.mongodb.net/CRUDDB?retryWrites=true&w=majority";
+
 
 mongoose.Promise = global.Promise;
 // mongoose.set("useFindAndModify", false);
@@ -37,7 +41,7 @@ app.use(bodyParser.json());
 
 productroutes(app);
 eventRoutes(app);
-
+// staffRoutes(app);
 app.listen(port);
 
 app.use((req, res) => {

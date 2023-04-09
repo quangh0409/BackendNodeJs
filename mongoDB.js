@@ -1,8 +1,8 @@
 // tham chiếu thư viện
 const mongoose = require('mongoose')
 //link kết nối database
-const URL = "mongodb+srv://quangvt5:Qvt29092001.@cluster0.k0fqybm.mongodb.net/test?retryWrites=true&w=majority"
-
+// const URL = "mongodb+srv://quangvt5:Qvt29092001.@cluster0.k0fqybm.mongodb.net/test?retryWrites=true&w=majority"
+const URL = "mongodb+srv://trang220:trang220@atlascluster.rnfhsgt.mongodb.net/CRUDDB?retryWrites=true&w=majority";
 const connectDB = async () => {
   try {
     await mongoose.connect(
