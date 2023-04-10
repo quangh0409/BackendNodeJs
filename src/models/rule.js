@@ -1,19 +1,19 @@
-const mongoose = require('mongoose');
-const Time= require('../utils/time');
+const mongoose = require("mongoose");
+const Time = require("../utils/time");
 
 const { Schema } = mongoose;
 
-const referenceTime = new Schema(
-  {
-    startTime: {
-      type: Time,
-    },
-    endTime: {
-      type: Time,
-    },
-  },
-  { _id: false }
-);
+// const referenceTime = new Schema(
+//   {
+//     startTime: {
+//       type: Time,
+//     },
+//     endTime: {
+//       type: Time,
+//     },
+//   },
+//   { _id: false }
+// );
 
 const referenceSpace = new Schema(
   {
@@ -30,11 +30,20 @@ const ruleSchema = new Schema(
       type: String,
     },
     referenceTime: {
-      type: referenceTime,
+      startTime: {
+        type: String,
+      },
+      endTime: {
+        type: String,
+      },
     },
 
     referenceSpace: {
       type: referenceSpace,
+    },
+
+    action: {
+      type: Object,
     },
   },
   { versionKey: false },

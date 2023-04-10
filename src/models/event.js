@@ -12,6 +12,9 @@ const eventSchema = new Schema(
       type: Object,
       required: "camera cannot be blank",
     },
+    createdTime: {
+      type: String,
+    }
   },
   { versionKey: false },
   { collection: "events" }

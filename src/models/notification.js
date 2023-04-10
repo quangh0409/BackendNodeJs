@@ -12,7 +12,7 @@ const notificationSchema = new Schema(
       type: Object,
     },
     staff: {
-      type: Object,
+      type: [Object],
     },
     event: {
       type: Object,

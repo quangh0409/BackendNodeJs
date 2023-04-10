@@ -2,9 +2,9 @@ const mongoose = require("mongoose");
 const Rule = mongoose.model("rules");
 const path = require("path");
 const logger = require("../utils/winston/winston");
-
+const Time = require("../utils/time");
 exports.getAllRules = (req, res) => {
-  Rule.find().then(
+  Rule.find({}, { name: 1, referenceTime: 1, referenceSpace: 1, action: 1 }).then(
     (data) => {
       res.send({ data });
     },
@@ -23,10 +23,22 @@ exports.create = (req, res) => {
     name: req.body.name,
     referenceTime: referenceTime,
     referenceSpace: req.body.referenceSpace,
+    action: req.body.action,
   });
   newRule
     .save()
-    .then(() => {
+    .then((result) => {
+      if (req.query) {
+        logger.info(
+          `API: /api/example is called with query ${JSON.stringify(
+            req.query
+          )}. Result: ${JSON.stringify(result)}`
+        );
+      } else {
+        logger.info(
+          `API: /api/example is called. Result: ${JSON.stringify(result)}`
+        );
+      }
       res.send(newRule);
     })
     .catch((e) => {
@@ -58,6 +70,7 @@ exports.update = (req, res) => {
       name: req.body.name,
       referenceTime: req.body.referenceTime,
       referenceSpace: req.body.referenceSpace,
+      action: req.body.action,
     },
     { upsert: true, new: true }
   )

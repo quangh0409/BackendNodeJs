@@ -51,6 +51,11 @@ function connect() {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   });
+
+  mongoose.set("debug", (collectionName, method, query, doc) => {
+    logger.debug(`${collectionName}.${method}`, query, doc);
+  });
+  
   const db = mongoose.connection;
 
   db.on("error", onError);
@@ -59,9 +64,7 @@ function connect() {
 
   process.on("SIGINT", onSIGINT);
 
-  mongoose.set("debug", (collectionName, method, query, doc) => {
-    logger.debug(`${collectionName}.${method}`, query, doc);
-  });
+  
 }
 
 module.exports = connect;

@@ -1,384 +1,1299 @@
-[2023-04-09 11:34:48] [[31merror[39m] Error: Error log
-    at Object.<anonymous> (C:\Users\vutro\Workspace\node\BackendNodeJs\server.js:53:14)
-    at Module._compile (node:internal/modules/cjs/loader:1105:14)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
-    at Module.load (node:internal/modules/cjs/loader:981:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
-    at node:internal/main/run_main_module:17:47
-[2023-04-09 11:34:50] [[31merror[39m] Error: Error log
-    at Object.<anonymous> (C:\Users\vutro\Workspace\node\BackendNodeJs\server.js:53:14)
-    at Module._compile (node:internal/modules/cjs/loader:1105:14)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
-    at Module.load (node:internal/modules/cjs/loader:981:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
-    at node:internal/main/run_main_module:17:47
-[2023-04-09 11:34:50] [[32minfo[39m] Info log %
-[2023-04-09 11:34:50] [[33mwarn[39m] Warning log
-[2023-04-09 11:34:50] [[31merror[39m] Error: Error log
-    at Object.<anonymous> (C:\Users\vutro\Workspace\node\BackendNodeJs\server.js:53:14)
-    at Module._compile (node:internal/modules/cjs/loader:1105:14)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
-    at Module.load (node:internal/modules/cjs/loader:981:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
-    at node:internal/main/run_main_module:17:47
-[2023-04-09 11:37:11] [[31merror[39m] Error: Error log
-    at Object.<anonymous> (C:\Users\vutro\Workspace\node\BackendNodeJs\server.js:53:14)
-    at Module._compile (node:internal/modules/cjs/loader:1105:14)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
-    at Module.load (node:internal/modules/cjs/loader:981:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
-    at node:internal/main/run_main_module:17:47
-[2023-04-09 11:37:16] [[32minfo[39m] Info log %
-[2023-04-09 11:37:16] [[33mwarn[39m] Warning log
-[2023-04-09 11:37:16] [[31merror[39m] Error: Error log
-    at Object.<anonymous> (C:\Users\vutro\Workspace\node\BackendNodeJs\server.js:53:14)
-    at Module._compile (node:internal/modules/cjs/loader:1105:14)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
-    at Module.load (node:internal/modules/cjs/loader:981:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
-    at node:internal/main/run_main_module:17:47
-undefined
-undefined
-undefined
-undefined
-undefined
-undefined
-[2023-04-09 11:41:49] [[32minfo[39m] [winston][my_function] Info log %
-[2023-04-09 11:41:49] [[33mwarn[39m] [winston][my_function] Warning log
-[2023-04-09 11:41:49] [[31merror[39m] [winston][my_function] Error log
-[2023-04-09 11:43:34] [[32minfo[39m] [winston][my_function] Info log %
-[2023-04-09 11:43:34] [[33mwarn[39m] [winston][my_function] Warning log
-[2023-04-09 11:43:34] [[31merror[39m] [winston][my_function] Error log
-[2023-04-09 11:43:38] [[32minfo[39m] [winston][my_function] Info log %
-[2023-04-09 11:43:38] [[33mwarn[39m] [winston][my_function] Warning log
-[2023-04-09 11:43:38] [[31merror[39m] [winston][my_function] Error log
-[2023-04-09 11:43:42] [[32minfo[39m] [winston][my_function] Info log %
-[2023-04-09 11:43:42] [[33mwarn[39m] [winston][my_function] Warning log
-[2023-04-09 11:43:42] [[31merror[39m] [winston][my_function] Error log
-[2023-04-09 11:43:43] [[32minfo[39m] [winston][my_function] 
-[2023-04-09 11:43:47] [[32minfo[39m] [winston][my_function] Info log %
-[2023-04-09 11:43:47] [[33mwarn[39m] [winston][my_function] Warning log
-[2023-04-09 11:43:47] [[31merror[39m] [winston][my_function] Error log
-[2023-04-09 11:43:49] [[32minfo[39m] [winston][my_function] Info log %
-[2023-04-09 11:43:49] [[33mwarn[39m] [winston][my_function] Warning log
-[2023-04-09 11:43:49] [[31merror[39m] [winston][my_function] Error log
-[2023-04-09 11:43:49] [[32minfo[39m] [winston][my_function] Connected to mongoDB
-[2023-04-09 11:44:24] [[32minfo[39m] [winston][my_function] Info log %
-[2023-04-09 11:44:24] [[33mwarn[39m] [winston][my_function] Warning log
-[2023-04-09 11:44:24] [[31merror[39m] [winston][my_function] Error log
-[2023-04-09 11:44:25] [[32minfo[39m] [winston][my_function] Connected to mongoDB
-[2023-04-09 11:46:42] [[32minfo[39m] [winston][my_function] Info log %
-[2023-04-09 11:46:42] [[33mwarn[39m] [winston][my_function] Warning log
-[2023-04-09 11:46:42] [[31merror[39m] [winston][my_function] Error log
-[2023-04-09 11:46:43] [[32minfo[39m] [winston][my_function] [winston][my_function] Connected to mongoDB
-[2023-04-09 11:47:44] [[32minfo[39m] [winston][my_function] Info log %
-[2023-04-09 11:47:44] [[33mwarn[39m] [winston][my_function] Warning log
-[2023-04-09 11:47:44] [[31merror[39m] [winston][my_function] Error log
-[2023-04-09 11:48:07] [[32minfo[39m] [winston][my_function] Info log %
-[2023-04-09 11:48:07] [[33mwarn[39m] [winston][my_function] Warning log
-[2023-04-09 11:48:07] [[31merror[39m] [winston][my_function] Error log
-[2023-04-09 11:48:08] [[32minfo[39m] [winston][my_function] [server][my_function] Connected to mongoDB
-[2023-04-09 11:48:38] [[32minfo[39m]  Info log %
-[2023-04-09 11:48:38] [[33mwarn[39m]  Warning log
-[2023-04-09 11:48:38] [[31merror[39m]  Error log
-[2023-04-09 11:48:39] [[32minfo[39m]  [server][my_function] Connected to mongoDB
-[2023-04-09 11:48:48] [[32minfo[39m] Info log %
-[2023-04-09 11:48:48] [[33mwarn[39m] Warning log
-[2023-04-09 11:48:48] [[31merror[39m] Error log
-[2023-04-09 11:48:49] [[32minfo[39m] [server][my_function] Connected to mongoDB
-undefined
-undefined
-undefined
-undefined
-[2023-04-09 11:49:22] [[32minfo[39m] Info log %
-[2023-04-09 11:49:22] [[33mwarn[39m] Warning log
-[2023-04-09 11:49:22] [[31merror[39m] Error: Error log
-    at Object.<anonymous> (C:\Users\vutro\Workspace\node\BackendNodeJs\server.js:55:14)
-    at Module._compile (node:internal/modules/cjs/loader:1105:14)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
-    at Module.load (node:internal/modules/cjs/loader:981:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
-    at node:internal/main/run_main_module:17:47
-[2023-04-09 11:49:23] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 12:05:50] [[32minfo[39m] Server started on port 8080
-[2023-04-09 12:05:50] [[33mwarn[39m] Warning log
-[2023-04-09 12:05:50] [[31merror[39m] Error: Error log
-    at Object.<anonymous> (C:\Users\vutro\Workspace\node\BackendNodeJs\server.js:55:14)
-    at Module._compile (node:internal/modules/cjs/loader:1105:14)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
-    at Module.load (node:internal/modules/cjs/loader:981:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
-    at node:internal/main/run_main_module:17:47
-[2023-04-09 12:05:51] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 12:05:53] [[32minfo[39m] Server started on port 8080
-[2023-04-09 12:05:54] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 12:05:57] [[32minfo[39m] Server started on port 8080
-[2023-04-09 12:05:58] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 12:06:29] [[32minfo[39m] [server]Server started on port 8080
-[2023-04-09 12:06:30] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 12:06:31] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:07:25] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:07:26] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:07:45] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:07:46] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:11:12] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:11:14] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:11:15] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:11:16] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:11:42] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:11:42] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:11:43] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:11:44] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:12:04] [[34mdebug[39m] rules.find
-[2023-04-09 16:13:36] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:13:37] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:13:43] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:14:11] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:14:13] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:14:13] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:14:22] [[32minfo[39m] [2023-04-09T09:14:22.144Z] GET /rules
-[2023-04-09 16:14:22] [[34mdebug[39m] rules.find
-[2023-04-09 16:17:34] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:17:36] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:18:35] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:18:35] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:58:44] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:58:45] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:58:50] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:58:51] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:58:54] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:58:54] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:58:59] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:58:59] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 16:59:20] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:59:21] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 16:59:22] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:00:09] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:10] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:11] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:00:29] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:30] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:00:31] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:32] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:00:37] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:38] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:39] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:00:43] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:44] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:00:46] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:47] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:00:49] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:50] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:00:52] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:53] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:00:53] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:01:00] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:01:01] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:01:10] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:01:11] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:01:12] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:01:13] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:01:22] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:01:23] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:01:54] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:01:55] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:02:26] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:02:26] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:02:30] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:02:31] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:02:33] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:02:35] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:02:36] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:02:41] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:02:42] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:03:09] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:03:09] [[32minfo[39m] [server][my_function] Connected to mongoDB
-[2023-04-09 17:03:20] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:03:21] [[32minfo[39m] [server".js"][my_function] Connected to mongoDB
-[2023-04-09 17:03:28] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:03:29] [[32minfo[39m] [server .js"][my_function] Connected to mongoDB
-[2023-04-09 17:03:30] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:03:30] [[32minfo[39m] [server .js][my_function] Connected to mongoDB
-[2023-04-09 17:03:35] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:03:35] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:04:15] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:04:16] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:04:19] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:04:20] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:04:20] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:04:38] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:04:39] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:04:43] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:04:43] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:04:47] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:04:48] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:04:51] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:04:52] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:05:10] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:05:11] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:05:13] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:05:14] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:05:35] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:05:36] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:05:45] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:05:45] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:05:47] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:05:48] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:05:55] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:06:31] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:06:32] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:06:38] [[32minfo[39m] [server.js][my_function] Connected to mongoDB
-[2023-04-09 17:08:03] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:08:07] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:08:10] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:08:32] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:08:53] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:08:59] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:09:02] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:09:18] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:09:19] [[31merror[39m] [mongodb.js][onError] MongoDB Atlas connection error: TypeError: Cannot create property 'Symbol(level)' on string '[mongodb.js][onConnected] Connected to mongoDB  Atlas!'
-[2023-04-09 17:10:13] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:10:14] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:14:22] [[32minfo[39m] [2023-04-09T10:14:22.528Z] GET /rules
-[2023-04-09 17:14:22] [[34mdebug[39m] rules.find
-[2023-04-09 17:17:06] [[32minfo[39m] [2023-04-09T10:17:06.326Z] GET /rules/
-[2023-04-09 17:17:06] [[34mdebug[39m] rules.find
-[2023-04-09 17:17:10] [[32minfo[39m] [2023-04-09T10:17:10.372Z] GET /rules/3
-[2023-04-09 17:18:35] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:18:36] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:18:37] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:18:38] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:18:52] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:18:53] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:18:56] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:18:59] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:19:00] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:19:01] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:19:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:19:04] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:19:04] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:19:05] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:19:06] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:19:16] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:19:17] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:19:28] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:19:28] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:19:37] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:19:38] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:19:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:20:06] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:20:07] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:20:13] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:20:13] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:20:23] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:20:23] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:20:31] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:20:32] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:20:35] [[32minfo[39m] [2023-04-09T10:20:35.873Z] GET /rules/3
-[2023-04-09 17:21:13] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:21:13] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:21:17] [[32minfo[39m] [2023-04-09T10:21:17.684Z] GET /rules/3
-[2023-04-09 17:21:26] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:21:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:21:30] [[32minfo[39m] [2023-04-09T10:21:30.509Z] GET /rules/3
-[2023-04-09 17:21:39] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:21:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:21:47] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:21:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:21:49] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:21:49] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:21:52] [[32minfo[39m] [2023-04-09T10:21:52.263Z] GET /rules/3
-[2023-04-09 17:21:52] [[31merror[39m] [ruleController.js][getById] error: CastError: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "rules"
-[2023-04-09 17:28:58] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 17:28:58] [[33mwarn[39m] [mongodb.js][onReconnected] MongoDB Atlas reconnected!
-[2023-04-09 17:29:50] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 17:29:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:09:28] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:09:29] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:25:35] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:25:36] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:26:05] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:26:06] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:26:16] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:26:17] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:26:26] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:26:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:26:37] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:26:38] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:26:42] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:26:42] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:26:50] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:26:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:26:58] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:26:59] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:27:01] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:27:01] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:27:03] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:27:04] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:27:08] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:27:12] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:27:13] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:27:21] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:27:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:27:39] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:27:40] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:27:46] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:27:47] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:27:49] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:27:50] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:27:52] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:27:53] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:27:58] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:27:59] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:28:04] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:28:05] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:28:29] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:28:30] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:28:31] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:28:33] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:28:34] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:29:22] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:29:23] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:29:25] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:29:26] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:29:38] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:29:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:29:40] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:29:41] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:30:26] [[32minfo[39m] [2023-04-09T11:30:26.849Z] GET /staffs
-[2023-04-09 18:30:26] [[34mdebug[39m] staffs.find
-[2023-04-09 18:33:12] [[32minfo[39m] [2023-04-09T11:33:12.459Z] PUT /actions/
-[2023-04-09 18:33:27] [[32minfo[39m] [2023-04-09T11:33:27.693Z] DELETE /actions/
-[2023-04-09 18:33:51] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:33:52] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:34:01] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:34:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:34:04] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:34:05] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:34:06] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:34:43] [[32minfo[39m] [server] Server started on port 8080
-[2023-04-09 18:34:44] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 18:34:48] [[32minfo[39m] [2023-04-09T11:34:48.389Z] DELETE /actions/
-[2023-04-09 18:34:48] [[31merror[39m] [server] url: /actions/ not found
-[2023-04-09 18:35:05] [[32minfo[39m] [2023-04-09T11:35:05.254Z] DELETE /actions/as
-[2023-04-09 19:25:35] [[32minfo[39m] [2023-04-09T12:25:35.163Z] GET /notifications/
-[2023-04-09 19:25:35] [[34mdebug[39m] notifications.find
-[2023-04-09 19:26:21] [[32minfo[39m] [2023-04-09T12:26:21.690Z] GET /rules/3
-[2023-04-09 19:26:21] [[31merror[39m] [ruleController.js][getById] error: CastError: Cast to ObjectId failed for value "3" (type string) at path "_id" for model "rules"
-[2023-04-09 19:26:28] [[32minfo[39m] [2023-04-09T12:26:28.625Z] GET /rules
-[2023-04-09 19:26:28] [[34mdebug[39m] rules.find
-[2023-04-09 19:43:57] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
-[2023-04-09 19:43:57] [[33mwarn[39m] [mongodb.js][onReconnected] MongoDB Atlas reconnected!
-[2023-04-09 20:23:46] [[32minfo[39m] [2023-04-09T13:23:46.732Z] POST /rules
-[2023-04-09 20:23:46] [[34mdebug[39m] rules.insertOne
-[2023-04-09 20:23:59] [[32minfo[39m] [2023-04-09T13:23:59.179Z] PUT /rules/6432bc62c9523d0df83ba210
-[2023-04-09 20:23:59] [[34mdebug[39m] rules.findOneAndUpdate
-[2023-04-09 20:24:11] [[32minfo[39m] [2023-04-09T13:24:11.569Z] GET /staffs
-[2023-04-09 20:24:11] [[34mdebug[39m] staffs.find
+[2023-04-09 20:47:23] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:47:24] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:47:51] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:47:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:47:55] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:50:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:50:35] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:50:55] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:50:56] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:51:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:51:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:51:06] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:51:07] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:51:22] [[32minfo[39m] [2023-04-09T13:51:22.207Z] POST /rules
+[2023-04-09 20:51:22] [[34mdebug[39m] rules.insertOne
+[2023-04-09 20:51:22] [[32minfo[39m] Document 6432c2dad07394e18f80a837 has been created!
+[2023-04-09 20:53:08] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:53:09] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:53:12] [[32minfo[39m] [2023-04-09T13:53:12.612Z] POST /rules
+[2023-04-09 20:53:12] [[34mdebug[39m] rules.insertOne
+[2023-04-09 20:53:12] [[32minfo[39m] Document {} has been created!
+[2023-04-09 20:53:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:53:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:53:59] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:54:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:54:06] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:54:07] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:54:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:54:26] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:54:28] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:55:28] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:55:29] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:55:38] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:55:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:55:42] [[32minfo[39m] [2023-04-09T13:55:42.271Z] POST /rules
+[2023-04-09 20:55:42] [[34mdebug[39m] rules.insertOne
+[2023-04-09 20:55:42] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":"07:30:45","endTime":"18:30:00"},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"_id":"6432c3dedd9f8fd597a906a7"}
+[2023-04-09 20:57:11] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 20:57:12] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 20:57:15] [[32minfo[39m] [2023-04-09T13:57:15.859Z] POST /rules
+[2023-04-09 20:57:15] [[34mdebug[39m] rules.insertOne
+[2023-04-09 20:57:15] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":"07:30:45","endTime":"18:30:00"},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"_id":"6432c43bf1905aea690a1274"}
+[2023-04-09 21:27:50] [[32minfo[39m] [2023-04-09T14:27:50.598Z] POST /actions
+[2023-04-09 21:27:50] [[34mdebug[39m] actions.insertOne
+[2023-04-09 22:02:49] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:02:50] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:05:27] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:05:28] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:05:36] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:05:37] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:05:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:05:47] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:05:48] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:05:49] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:05:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:05:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:05:52] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:05:53] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:06:22] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:06:23] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:06:30] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:06:31] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:07:11] [[32minfo[39m] [2023-04-09T15:07:11.256Z] GET /events
+[2023-04-09 22:07:11] [[34mdebug[39m] events.find
+[2023-04-09 22:07:23] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:07:24] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:07:25] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:07:26] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:07:28] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:07:29] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:07:30] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:07:31] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:07:45] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:07:46] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-09 22:07:48] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-09 22:07:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:13:08] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:13:11] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:13:22] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:13:26] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:13:35] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:13:37] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:13:41] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:13:42] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:14:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:14:10] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:14:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:14:15] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:14:19] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:14:20] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:15:43] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:16:32] [[31merror[39m] [mongodb.js][onError] MongoDB Atlas connection error: MongoServerSelectionError: getaddrinfo ENOTFOUND ac-5annfph-shard-00-02.k0fqybm.mongodb.net
+[2023-04-10 08:17:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:17:37] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:17:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:17:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:17:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:17:58] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:18:06] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:18:10] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:18:12] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:20:02] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:20:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:20:09] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:20:28] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:20:32] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:20:34] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:20:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:20:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:20:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:20:55] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:20:58] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:20:58] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:22:02] [[32minfo[39m] [2023-04-10T01:22:02.079Z] GET /events/workflow
+[2023-04-10 08:22:02] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:22:54] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:23:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:23:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:23:06] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:23:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:23:12] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:23:18] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:23:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:23:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:23:38] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:23:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:23:41] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:23:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:23:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:23:55] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:24:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:24:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:24:17] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:24:37] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:24:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:24:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:24:46] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:24:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:24:59] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:25:02] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:25:07] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:25:08] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:25:12] [[32minfo[39m] [2023-04-10T01:25:12.180Z] GET /events/workflow
+[2023-04-10 08:25:12] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:25:48] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:25:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:25:52] [[32minfo[39m] [2023-04-10T01:25:52.674Z] GET /events/workflow
+[2023-04-10 08:26:17] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:27:00] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:27:02] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:27:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:27:10] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:27:12] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:27:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:31:45] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:31:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:31:54] [[32minfo[39m] [2023-04-10T01:31:54.662Z] GET /events/workflow
+[2023-04-10 08:32:04] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:32:04] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:33:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:33:43] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:33:48] [[32minfo[39m] [2023-04-10T01:33:48.202Z] GET /events/workflow
+[2023-04-10 08:33:48] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:34:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:34:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:34:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:34:50] [[32minfo[39m] [2023-04-10T01:34:50.142Z] GET /events/workflow
+[2023-04-10 08:35:20] [[31merror[39m] [mongodb.js][onError] MongoDB Atlas connection error: MongoServerSelectionError: Server selection timed out after 30000 ms
+[2023-04-10 08:39:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:39:47] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:43:31] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:43:37] [[32minfo[39m] [2023-04-10T01:43:37.605Z] GET /events/workflow
+[2023-04-10 08:44:02] [[31merror[39m] [mongodb.js][onError] MongoDB Atlas connection error: MongoServerSelectionError: Server selection timed out after 30000 ms
+[2023-04-10 08:44:18] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:44:28] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:44:32] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:45:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:45:35] [[32minfo[39m] [2023-04-10T01:45:35.245Z] GET /events/workflow
+[2023-04-10 08:45:37] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:45:37] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:46:02] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:46:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:46:10] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:46:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:46:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:46:15] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:46:18] [[32minfo[39m] [2023-04-10T01:46:18.145Z] GET /events/workflow
+[2023-04-10 08:46:18] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:46:34] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:46:37] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:46:42] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:46:44] [[32minfo[39m] [2023-04-10T01:46:44.450Z] GET /events/workflow
+[2023-04-10 08:47:29] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:47:36] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:47:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:47:50] [[32minfo[39m] [2023-04-10T01:47:50.833Z] GET /events/workflow
+[2023-04-10 08:48:08] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:48:21] [[32minfo[39m] [2023-04-10T01:48:21.486Z] GET /events/workflow
+[2023-04-10 08:48:21] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:50:04] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:50:07] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:50:19] [[32minfo[39m] [2023-04-10T01:50:19.377Z] GET /events/workflow
+[2023-04-10 08:50:40] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:50:42] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:50:47] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:50:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:50:50] [[32minfo[39m] [2023-04-10T01:50:50.814Z] GET /events/workflow
+[2023-04-10 08:50:54] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:50:54] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:51:01] [[32minfo[39m] [2023-04-10T01:51:01.205Z] GET /events/workflow
+[2023-04-10 08:51:01] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:51:04] [[32minfo[39m] [2023-04-10T01:51:04.509Z] GET /events/workflow
+[2023-04-10 08:51:04] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:51:10] [[32minfo[39m] [2023-04-10T01:51:10.043Z] GET /events
+[2023-04-10 08:51:10] [[34mdebug[39m] events.find
+[2023-04-10 08:51:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:51:49] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:51:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:51:55] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:51:55] [[32minfo[39m] [2023-04-10T01:51:55.672Z] GET /events/workflow
+[2023-04-10 08:51:55] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:52:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:52:20] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:52:27] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:52:29] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:52:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:53:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:53:10] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:53:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:53:17] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:53:20] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:53:28] [[32minfo[39m] [2023-04-10T01:53:28.037Z] GET /events/workflow
+[2023-04-10 08:53:38] [[31merror[39m] MongooseError: Operation `events.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\vutro\Workspace\node\BackendNodeJs\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[2023-04-10 08:54:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:54:03] [[32minfo[39m] [2023-04-10T01:54:03.993Z] POST /events
+[2023-04-10 08:54:04] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:54:36] [[32minfo[39m] [2023-04-10T01:54:36.227Z] GET /events/workflow
+[2023-04-10 08:54:36] [[34mdebug[39m] events.insertOne
+[2023-04-10 08:54:37] [[31merror[39m] TypeError: this.path.indexOf is not a function
+    at Time.SchemaType.splitPath (C:\Users\vutro\Workspace\node\BackendNodeJs\node_modules\mongoose\lib\schematype.js:200:34)
+    at new SchemaType (C:\Users\vutro\Workspace\node\BackendNodeJs\node_modules\mongoose\lib\schematype.js:53:8)
+    at new Time (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:5:5)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:39:29
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 08:56:03] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:56:05] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 08:56:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:56:23] [[32minfo[39m] [2023-04-10T01:56:23.954Z] GET /events/workflow
+[2023-04-10 08:56:34] [[31merror[39m] MongooseError: Operation `events.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\vutro\Workspace\node\BackendNodeJs\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[2023-04-10 08:56:42] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 08:56:44] [[32minfo[39m] [2023-04-10T01:56:44.054Z] GET /events/workflow
+[2023-04-10 08:56:54] [[31merror[39m] MongooseError: Operation `events.insertOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\vutro\Workspace\node\BackendNodeJs\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[2023-04-10 08:57:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:03:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:04:10] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:04:26] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:04:28] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:06:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:06:19] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:06:35] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:06:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:06:41] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:06:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:06:47] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:06:49] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:06:50] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:07:04] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:07:11] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:07:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:07:18] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:07:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:07:24] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:07:24] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:07:27] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:07:32] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:07:35] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:07:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:08:23] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:08:24] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:08:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:08:48] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:08:49] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:10:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:10:32] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:10:36] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:10:41] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:10:43] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:11:03] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:11:05] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:11:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:12:08] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:12:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:12:16] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:12:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:12:42] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:12:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:12:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:13:09] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:13:11] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:13:35] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:13:36] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:13:45] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:13:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:13:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:13:51] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:13:53] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:13:56] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:13:58] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:14:54] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:15:02] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:15:11] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:15:17] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:15:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:15:30] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:15:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:15:45] [[32minfo[39m] [2023-04-10T02:15:45.874Z] GET /events/workflow
+[2023-04-10 09:15:45] [[34mdebug[39m] events.insertOne
+[2023-04-10 09:15:46] [[34mdebug[39m] rules.find
+[2023-04-10 09:16:00] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:16:04] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:16:07] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:16:11] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:16:17] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:16:19] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:16:31] [[32minfo[39m] [2023-04-10T02:16:31.622Z] GET /events/workflow
+[2023-04-10 09:16:31] [[34mdebug[39m] events.insertOne
+[2023-04-10 09:16:31] [[34mdebug[39m] rules.find
+[2023-04-10 09:16:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:16:45] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:16:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:16:49] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:16:53] [[32minfo[39m] [2023-04-10T02:16:53.617Z] GET /events/workflow
+[2023-04-10 09:16:53] [[34mdebug[39m] events.insertOne
+[2023-04-10 09:16:53] [[34mdebug[39m] rules.find
+[2023-04-10 09:17:00] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:17:03] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:17:03] [[32minfo[39m] [2023-04-10T02:17:03.471Z] GET /events/workflow
+[2023-04-10 09:17:12] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:17:12] [[34mdebug[39m] events.insertOne
+[2023-04-10 09:17:15] [[34mdebug[39m] rules.find
+[2023-04-10 09:17:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:17:52] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:17:54] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:18:05] [[32minfo[39m] [2023-04-10T02:18:05.916Z] GET /rules
+[2023-04-10 09:18:05] [[34mdebug[39m] rules.find
+[2023-04-10 09:19:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:19:20] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:19:31] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:19:59] [[32minfo[39m] [2023-04-10T02:19:59.500Z] GET /events/workflow
+[2023-04-10 09:19:59] [[34mdebug[39m] events.insertOne
+[2023-04-10 09:19:59] [[34mdebug[39m] rules.find
+[2023-04-10 09:20:23] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:20:27] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:20:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:20:41] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:20:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:20:54] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:21:00] [[32minfo[39m] [2023-04-10T02:21:00.526Z] GET /events/workflow
+[2023-04-10 09:21:00] [[34mdebug[39m] events.insertOne
+[2023-04-10 09:21:00] [[34mdebug[39m] rules.find
+[2023-04-10 09:21:24] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 09:21:36] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 09:21:39] [[32minfo[39m] [2023-04-10T02:21:39.072Z] GET /events/workflow
+[2023-04-10 09:21:39] [[34mdebug[39m] events.insertOne
+[2023-04-10 09:21:40] [[34mdebug[39m] rules.find
+[2023-04-10 10:05:37] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:05:38] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:05:44] [[32minfo[39m] [2023-04-10T03:05:44.675Z] POST /rules
+[2023-04-10 10:05:44] [[34mdebug[39m] rules.insertOne
+[2023-04-10 10:05:44] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":{"hours":7,"minutes":30,"seconds":45},"endTime":{"hours":18,"minutes":30,"seconds":0}},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"_id":"64337d081568ce2a93a14122"}
+[2023-04-10 10:06:24] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:06:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:06:36] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:06:37] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:07:28] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:07:34] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:07:36] [[32minfo[39m] [2023-04-10T03:07:36.755Z] GET /events/workflow
+[2023-04-10 10:07:36] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:07:37] [[34mdebug[39m] rules.find
+[2023-04-10 10:07:37] [[31merror[39m] TypeError: recordingTime.compare is not a function
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:54:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:51:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 10:08:01] [[32minfo[39m] [2023-04-10T03:08:01.517Z] GET /rules
+[2023-04-10 10:08:01] [[34mdebug[39m] rules.find
+[2023-04-10 10:08:18] [[32minfo[39m] [2023-04-10T03:08:18.930Z] GET /events/workflow
+[2023-04-10 10:08:18] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:08:19] [[34mdebug[39m] rules.find
+[2023-04-10 10:08:19] [[31merror[39m] TypeError: recordingTime.compare is not a function
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:54:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:51:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 10:08:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:08:56] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:08:58] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:09:07] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:09:08] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:09:11] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:09:11] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:09:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:09:18] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:09:20] [[32minfo[39m] [2023-04-10T03:09:20.850Z] GET /events/workflow
+[2023-04-10 10:09:20] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:09:21] [[34mdebug[39m] rules.find
+[2023-04-10 10:09:21] [[31merror[39m] TypeError: recordingTime.compare is not a function
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:54:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:51:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 10:09:45] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:09:46] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:09:54] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:09:55] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:10:02] [[32minfo[39m] [2023-04-10T03:10:02.516Z] GET /events/workflow
+[2023-04-10 10:10:02] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:10:02] [[34mdebug[39m] rules.find
+[2023-04-10 10:10:02] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:54:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:51:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 10:21:40] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:21:40] [[33mwarn[39m] [mongodb.js][onReconnected] MongoDB Atlas reconnected!
+[2023-04-10 10:22:42] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:22:43] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:22:48] [[32minfo[39m] [2023-04-10T03:22:48.389Z] GET /events/workflow
+[2023-04-10 10:22:48] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:22:48] [[34mdebug[39m] rules.find
+[2023-04-10 10:22:48] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:54:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:51:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 10:23:25] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:23:26] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:23:29] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:23:30] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:23:34] [[32minfo[39m] [2023-04-10T03:23:34.862Z] GET /events/workflow
+[2023-04-10 10:23:34] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:23:34] [[34mdebug[39m] rules.find
+[2023-04-10 10:23:35] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:54:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:51:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 10:23:56] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:23:57] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:23:57] [[32minfo[39m] [2023-04-10T03:23:57.612Z] GET /events/workflow
+[2023-04-10 10:23:57] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:23:57] [[34mdebug[39m] rules.find
+[2023-04-10 10:23:57] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:52:37
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:51:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 10:24:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:24:13] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:24:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:24:15] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:24:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:24:45] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:24:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:24:47] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:24:51] [[32minfo[39m] [2023-04-10T03:24:51.586Z] GET /events/workflow
+[2023-04-10 10:24:51] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:24:51] [[34mdebug[39m] rules.find
+[2023-04-10 10:25:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:25:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:25:56] [[32minfo[39m] [2023-04-10T03:25:56.861Z] GET /events/workflow
+[2023-04-10 10:25:56] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:25:57] [[34mdebug[39m] rules.find
+[2023-04-10 10:26:29] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:26:30] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:27:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:27:12] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:27:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:27:14] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:27:18] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:27:19] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:27:43] [[32minfo[39m] [2023-04-10T03:27:43.559Z] GET /events/workflow
+[2023-04-10 10:27:43] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:27:43] [[34mdebug[39m] rules.find
+[2023-04-10 10:30:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:30:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:31:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:31:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:31:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:31:34] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:31:35] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:31:36] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:31:40] [[32minfo[39m] [2023-04-10T03:31:40.686Z] GET /events/workflow
+[2023-04-10 10:31:40] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:31:40] [[34mdebug[39m] rules.find
+[2023-04-10 10:31:49] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:31:50] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:31:52] [[32minfo[39m] [2023-04-10T03:31:52.429Z] GET /events/workflow
+[2023-04-10 10:31:52] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:31:52] [[34mdebug[39m] rules.find
+[2023-04-10 10:32:06] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:32:07] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:32:09] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:32:10] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:32:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:32:16] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:32:23] [[32minfo[39m] [2023-04-10T03:32:23.340Z] GET /events/workflow
+[2023-04-10 10:32:23] [[34mdebug[39m] events.insertOne
+[2023-04-10 10:32:23] [[34mdebug[39m] rules.find
+[2023-04-10 10:40:17] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:40:17] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:40:19] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:40:19] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:40:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:40:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:40:27] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:40:28] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:40:38] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:40:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:40:41] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:40:42] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:43:02] [[32minfo[39m] [2023-04-10T03:43:02.257Z] GET /notifications
+[2023-04-10 10:43:02] [[34mdebug[39m] notifications.find
+[2023-04-10 10:47:06] [[32minfo[39m] [2023-04-10T03:47:06.734Z] GET /actions
+[2023-04-10 10:47:06] [[34mdebug[39m] actions.find
+[2023-04-10 10:47:49] [[32minfo[39m] [2023-04-10T03:47:49.664Z] GET /rules
+[2023-04-10 10:47:49] [[34mdebug[39m] rules.find
+[2023-04-10 10:48:25] [[32minfo[39m] [2023-04-10T03:48:25.050Z] POST /rules
+[2023-04-10 10:48:25] [[34mdebug[39m] rules.insertOne
+[2023-04-10 10:48:25] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":{"hours":7,"minutes":30,"seconds":45},"endTime":{"hours":18,"minutes":30,"seconds":0}},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"_id":"64338709de4d8bd45487740c"}
+[2023-04-10 10:49:07] [[32minfo[39m] [2023-04-10T03:49:07.274Z] POST /rules
+[2023-04-10 10:49:07] [[34mdebug[39m] rules.insertOne
+[2023-04-10 10:49:07] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":{"hours":7,"minutes":30,"seconds":45},"endTime":{"hours":18,"minutes":30,"seconds":0}},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"_id":"64338733de4d8bd45487740e"}
+[2023-04-10 10:49:32] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:49:33] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:49:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:49:40] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:49:55] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:49:55] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:49:57] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:49:58] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:49:59] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:50:04] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:50:05] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:51:33] [[32minfo[39m] [2023-04-10T03:51:33.354Z] POST /rules
+[2023-04-10 10:51:33] [[34mdebug[39m] rules.insertOne
+[2023-04-10 10:51:33] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":{"hours":7,"minutes":30,"seconds":45},"endTime":{"hours":18,"minutes":30,"seconds":0}},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"action":{"_id":"6432cb66f1905aea690a1276","name":"Gửi thông báo tự động"},"_id":"643387c51b491546f68e375e"}
+[2023-04-10 10:51:59] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:51:59] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:52:03] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:52:03] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:52:09] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:52:10] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:52:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:52:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:52:15] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:52:15] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:52:18] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:52:19] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:52:24] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:52:25] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:52:35] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:52:36] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:52:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:52:41] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:53:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:53:05] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:53:22] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:53:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:53:24] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:53:25] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:53:31] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:53:31] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:54:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:54:15] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:54:16] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:54:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:54:54] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:56:27] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:56:28] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:59:26] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:59:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:59:54] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:59:55] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 10:59:56] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 10:59:57] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:00:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:00:03] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:00:03] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:03:49] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:03:50] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:03:51] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:03:52] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:05:34] [[32minfo[39m] [2023-04-10T04:05:34.757Z] POST /staffs
+[2023-04-10 11:05:34] [[34mdebug[39m] staffs.insertOne
+[2023-04-10 11:08:06] [[32minfo[39m] [2023-04-10T04:08:06.808Z] GET /events
+[2023-04-10 11:08:06] [[34mdebug[39m] events.find
+[2023-04-10 11:08:13] [[32minfo[39m] [2023-04-10T04:08:13.739Z] POST /events
+[2023-04-10 11:08:13] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:08:18] [[32minfo[39m] [2023-04-10T04:08:18.072Z] GET /events
+[2023-04-10 11:08:18] [[34mdebug[39m] events.find
+[2023-04-10 11:09:03] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:09:04] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:09:17] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:09:18] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:09:32] [[32minfo[39m] [2023-04-10T04:09:32.770Z] DELETE /events/64338badcee8b90d2218cb30
+[2023-04-10 11:09:32] [[34mdebug[39m] events.findOneAndDelete
+[2023-04-10 11:09:41] [[32minfo[39m] [2023-04-10T04:09:41.864Z] GET /events
+[2023-04-10 11:09:41] [[34mdebug[39m] events.find
+[2023-04-10 11:10:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:10:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:10:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:10:13] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:10:19] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:10:20] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:10:28] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:10:29] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:10:38] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:10:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:10:43] [[32minfo[39m] [2023-04-10T04:10:43.535Z] GET /events
+[2023-04-10 11:10:43] [[34mdebug[39m] events.find
+[2023-04-10 11:10:48] [[32minfo[39m] [2023-04-10T04:10:48.970Z] POST /events
+[2023-04-10 11:10:48] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:11:20] [[32minfo[39m] [2023-04-10T04:11:20.253Z] POST /notifications
+[2023-04-10 11:11:20] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 11:13:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:13:18] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:13:18] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:13:20] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:13:20] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:13:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:13:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:13:24] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:13:24] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:13:25] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:13:26] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:13:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:13:45] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:13:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:13:47] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:13:56] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:13:57] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:14:37] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:15:05] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:15:06] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:15:07] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:15:08] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:15:25] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:15:26] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:15:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:15:30] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:15:31] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:15:35] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:15:35] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:15:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:15:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:15:46] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:15:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:15:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:16:06] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:16:07] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:46:02] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:46:03] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:46:04] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:46:05] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:46:09] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:46:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:46:15] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:46:16] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:46:19] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:46:19] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:46:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:46:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:46:32] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:46:33] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:46:37] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:46:38] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:46:43] [[32minfo[39m] [2023-04-10T04:46:43.006Z] GET /staffs
+[2023-04-10 11:46:43] [[34mdebug[39m] staffs.find
+[2023-04-10 11:47:37] [[32minfo[39m] [2023-04-10T04:47:37.492Z] GET /events/workflow
+[2023-04-10 11:47:37] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:47:37] [[31merror[39m] Error: Invalid time string: Invalid Date
+    at new Time (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:8:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:47:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 11:48:22] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:48:23] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:48:26] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:48:26] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:48:29] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:48:37] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:48:38] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:48:42] [[32minfo[39m] [2023-04-10T04:48:42.197Z] GET /events/workflow
+[2023-04-10 11:48:42] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:48:42] [[31merror[39m] Error: Invalid time string: Invalid Date
+    at new Time (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:8:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:48:27
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 11:48:59] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:49:00] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:49:02] [[32minfo[39m] [2023-04-10T04:49:02.535Z] GET /events/workflow
+[2023-04-10 11:49:02] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:49:02] [[34mdebug[39m] rules.find
+[2023-04-10 11:49:02] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:58:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:56:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 11:49:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:49:40] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:49:52] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:49:53] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:49:55] [[32minfo[39m] [2023-04-10T04:49:55.664Z] GET /events/workflow
+[2023-04-10 11:49:55] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:49:55] [[34mdebug[39m] rules.find
+[2023-04-10 11:49:55] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:58:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:56:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 11:51:32] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:51:32] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:51:34] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:51:35] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:51:38] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:51:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:51:43] [[32minfo[39m] [2023-04-10T04:51:43.685Z] GET /events/workflow
+[2023-04-10 11:51:43] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:51:43] [[34mdebug[39m] rules.find
+[2023-04-10 11:51:43] [[31merror[39m] TypeError: Cannot read properties of undefined (reading 'compare')
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:58:44
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:56:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 11:52:30] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:52:31] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:52:42] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:52:43] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:53:02] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:53:03] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:53:07] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:53:07] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:53:36] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:53:38] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:53:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:53:40] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:53:45] [[32minfo[39m] [2023-04-10T04:53:45.433Z] GET /events/workflow
+[2023-04-10 11:53:45] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:53:45] [[34mdebug[39m] rules.find
+[2023-04-10 11:53:45] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:57:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:55:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 11:55:38] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:55:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:55:40] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:55:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:55:44] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:55:48] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:55:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:55:54] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:55:54] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:55:56] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:55:56] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:56:01] [[32minfo[39m] [2023-04-10T04:56:01.277Z] GET /events/workflow
+[2023-04-10 11:56:01] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:56:01] [[34mdebug[39m] rules.find
+[2023-04-10 11:56:01] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:60:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:55:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 11:56:30] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:56:30] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:56:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:56:33] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:56:38] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:56:38] [[32minfo[39m] [2023-04-10T04:56:38.952Z] GET /events/workflow
+[2023-04-10 11:56:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:56:39] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:56:39] [[34mdebug[39m] rules.find
+[2023-04-10 11:56:39] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:61:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:56:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 11:56:53] [[32minfo[39m] [2023-04-10T04:56:53.219Z] GET /rules
+[2023-04-10 11:56:53] [[34mdebug[39m] rules.find
+[2023-04-10 11:57:25] [[32minfo[39m] [2023-04-10T04:57:25.579Z] DELETE /rules/643387c51b491546f68e375e
+[2023-04-10 11:57:25] [[34mdebug[39m] rules.findOneAndDelete
+[2023-04-10 11:57:34] [[32minfo[39m] [2023-04-10T04:57:34.390Z] POST /rules
+[2023-04-10 11:57:34] [[34mdebug[39m] rules.insertOne
+[2023-04-10 11:57:34] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":{"hours":7,"minutes":30,"seconds":45},"endTime":{"hours":18,"minutes":30,"seconds":0}},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"action":{"_id":"6432cb66f1905aea690a1276","name":"Gửi thông báo tự động"},"_id":"6433973ee82d0548a84038b9"}
+[2023-04-10 11:57:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:57:47] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:57:51] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:57:52] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:57:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:57:54] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:58:03] [[32minfo[39m] [2023-04-10T04:58:03.291Z] GET /events/workflow
+[2023-04-10 11:58:03] [[34mdebug[39m] events.insertOne
+[2023-04-10 11:58:03] [[34mdebug[39m] rules.find
+[2023-04-10 11:58:03] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:57:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:55:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 11:58:15] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:58:16] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:58:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:58:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:58:27] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:58:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:58:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 11:58:34] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 11:58:40] [[32minfo[39m] [2023-04-10T04:58:40.583Z] GET /rules
+[2023-04-10 11:58:40] [[34mdebug[39m] rules.find
+[2023-04-10 11:58:57] [[32minfo[39m] [2023-04-10T04:58:57.394Z] DELETE /rules/6433973ee82d0548a84038b9
+[2023-04-10 11:58:57] [[34mdebug[39m] rules.findOneAndDelete
+[2023-04-10 11:59:13] [[32minfo[39m] [2023-04-10T04:59:13.102Z] POST /rules
+[2023-04-10 11:59:13] [[34mdebug[39m] rules.insertOne
+[2023-04-10 11:59:13] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":{"hours":7,"minutes":30,"seconds":45},"endTime":{"hours":18,"minutes":30,"seconds":0}},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"action":{"_id":"6432cb66f1905aea690a1276","name":"Gửi thông báo tự động"},"_id":"643397a18d37b69290ffb7c5"}
+[2023-04-10 12:00:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:00:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:00:39] [[32minfo[39m] [2023-04-10T05:00:39.816Z] GET /events/workflow
+[2023-04-10 12:00:39] [[34mdebug[39m] events.insertOne
+[2023-04-10 12:00:39] [[34mdebug[39m] rules.find
+[2023-04-10 12:00:40] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:61:27
+    at Array.find (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:56:22
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 12:01:08] [[32minfo[39m] [2023-04-10T05:01:08.227Z] GET /rules
+[2023-04-10 12:01:08] [[34mdebug[39m] rules.find
+[2023-04-10 12:01:52] [[32minfo[39m] [2023-04-10T05:01:52.699Z] GET /rules
+[2023-04-10 12:01:52] [[34mdebug[39m] rules.find
+[2023-04-10 12:04:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:04:33] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:04:37] [[32minfo[39m] [2023-04-10T05:04:37.706Z] GET /rules
+[2023-04-10 12:04:37] [[34mdebug[39m] rules.find
+[2023-04-10 12:06:25] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:06:26] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:06:29] [[32minfo[39m] [2023-04-10T05:06:29.088Z] GET /rules
+[2023-04-10 12:06:29] [[34mdebug[39m] rules.find
+[2023-04-10 12:09:06] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:09:07] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:09:09] [[32minfo[39m] [2023-04-10T05:09:09.694Z] GET /rules
+[2023-04-10 12:09:09] [[34mdebug[39m] rules.findOne
+[2023-04-10 12:10:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:10:54] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:10:59] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:11:00] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:11:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:11:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:11:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:11:13] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:11:22] [[32minfo[39m] [2023-04-10T05:11:22.209Z] POST /rules
+[2023-04-10 12:11:22] [[34mdebug[39m] rules.insertOne
+[2023-04-10 12:11:22] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":{"hours":7,"minutes":30,"seconds":45},"endTime":{"hours":18,"minutes":30,"seconds":0}},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"action":{"_id":"6432cb66f1905aea690a1276","name":"Gửi thông báo tự động"},"_id":"64339a7a814a5a426a803e18"}
+[2023-04-10 12:11:28] [[32minfo[39m] [2023-04-10T05:11:28.531Z] GET /rules
+[2023-04-10 12:11:28] [[34mdebug[39m] rules.findOne
+[2023-04-10 12:11:33] [[32minfo[39m] [2023-04-10T05:11:33.358Z] GET /rules
+[2023-04-10 12:11:33] [[34mdebug[39m] rules.findOne
+[2023-04-10 12:11:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:11:41] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:11:43] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:11:43] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:11:45] [[32minfo[39m] [2023-04-10T05:11:45.193Z] GET /rules
+[2023-04-10 12:11:45] [[34mdebug[39m] rules.find
+[2023-04-10 12:16:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:16:01] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:16:11] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:16:12] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:16:31] [[32minfo[39m] [2023-04-10T05:16:31.864Z] POST /rules
+[2023-04-10 12:16:31] [[34mdebug[39m] rules.insertOne
+[2023-04-10 12:16:31] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":{"hours":7,"minutes":30,"seconds":45},"endTime":{"hours":18,"minutes":30,"seconds":0}},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"action":{"_id":"6432cb66f1905aea690a1276","name":"Gửi thông báo tự động"},"_id":"64339bafd89b960b2e3d4200"}
+[2023-04-10 12:16:38] [[32minfo[39m] [2023-04-10T05:16:38.253Z] GET /rules
+[2023-04-10 12:16:38] [[34mdebug[39m] rules.find
+[2023-04-10 12:19:03] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:19:04] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:19:08] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:19:09] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:19:11] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:19:11] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:19:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:19:14] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:19:16] [[32minfo[39m] [2023-04-10T05:19:16.483Z] GET /rules
+[2023-04-10 12:19:16] [[34mdebug[39m] rules.find
+[2023-04-10 12:19:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:19:33] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:19:35] [[32minfo[39m] [2023-04-10T05:19:35.591Z] GET /rules
+[2023-04-10 12:19:35] [[34mdebug[39m] rules.find
+[2023-04-10 12:19:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:19:45] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:19:47] [[32minfo[39m] [2023-04-10T05:19:47.079Z] GET /rules
+[2023-04-10 12:19:47] [[34mdebug[39m] rules.find
+[2023-04-10 12:19:59] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:20:00] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:20:02] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:20:03] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:20:04] [[32minfo[39m] [2023-04-10T05:20:04.100Z] GET /rules
+[2023-04-10 12:20:04] [[34mdebug[39m] rules.find
+[2023-04-10 12:20:07] [[32minfo[39m] [2023-04-10T05:20:07.370Z] GET /rules
+[2023-04-10 12:20:07] [[34mdebug[39m] rules.find
+[2023-04-10 12:20:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:20:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:20:14] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:20:17] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:20:17] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:20:18] [[32minfo[39m] [2023-04-10T05:20:18.291Z] GET /rules
+[2023-04-10 12:20:18] [[34mdebug[39m] rules.find
+[2023-04-10 12:20:24] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:20:24] [[32minfo[39m] [2023-04-10T05:20:24.415Z] GET /rules
+[2023-04-10 12:20:25] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:20:25] [[34mdebug[39m] rules.find
+[2023-04-10 12:20:34] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:20:34] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:21:25] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:21:25] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:21:28] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:21:29] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:21:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:21:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:21:58] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:22:00] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:22:00] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:22:22] [[32minfo[39m] [2023-04-10T05:22:22.205Z] GET /rules
+[2023-04-10 12:22:22] [[34mdebug[39m] rules.find
+[2023-04-10 12:22:29] [[32minfo[39m] [2023-04-10T05:22:29.704Z] POST /rules
+[2023-04-10 12:23:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:23:14] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:23:19] [[32minfo[39m] [2023-04-10T05:23:19.567Z] POST /rules
+[2023-04-10 12:23:19] [[34mdebug[39m] rules.insertOne
+[2023-04-10 12:23:19] [[32minfo[39m] API: /api/example is called with query {}. Result: {"name":"luật phát hiện chuyển động ","referenceTime":{"startTime":"07:30:45","endTime":"18:30:00"},"referenceSpace":{"location":[" tầng 2","văn phòng 1"]},"action":{"_id":"6432cb66f1905aea690a1276","name":"Gửi thông báo tự động"},"_id":"64339d47d9e0844144cc21b1"}
+[2023-04-10 12:23:24] [[32minfo[39m] [2023-04-10T05:23:24.825Z] GET /rules
+[2023-04-10 12:23:24] [[34mdebug[39m] rules.find
+[2023-04-10 12:24:22] [[32minfo[39m] [2023-04-10T05:24:22.158Z] GET /rules
+[2023-04-10 12:24:22] [[34mdebug[39m] rules.find
+[2023-04-10 12:24:46] [[32minfo[39m] [2023-04-10T05:24:46.110Z] GET /events/workflow
+[2023-04-10 12:24:46] [[34mdebug[39m] events.insertOne
+[2023-04-10 12:24:46] [[34mdebug[39m] rules.find
+[2023-04-10 12:25:15] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:25:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:25:18] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:25:19] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:25:38] [[32minfo[39m] [2023-04-10T05:25:38.633Z] GET /staffs
+[2023-04-10 12:25:38] [[34mdebug[39m] staffs.find
+[2023-04-10 12:26:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:26:15] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:26:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:26:34] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:26:37] [[32minfo[39m] [2023-04-10T05:26:37.328Z] GET /events/workflow
+[2023-04-10 12:26:37] [[34mdebug[39m] events.insertOne
+[2023-04-10 12:26:37] [[34mdebug[39m] rules.find
+[2023-04-10 12:26:37] [[34mdebug[39m] staffs.find
+[2023-04-10 12:26:37] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:73:27
+    at Array.filter (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:71:29
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 12:27:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:27:15] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:27:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:27:16] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:27:18] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:27:19] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:27:22] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:27:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:27:25] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:27:25] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:27:28] [[32minfo[39m] [2023-04-10T05:27:28.635Z] GET /events/workflow
+[2023-04-10 12:27:28] [[34mdebug[39m] events.insertOne
+[2023-04-10 12:27:28] [[34mdebug[39m] rules.find
+[2023-04-10 12:27:28] [[34mdebug[39m] staffs.find
+[2023-04-10 12:27:28] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:74:27
+    at Array.filter (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:71:29
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 12:27:54] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:27:55] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:28:31] [[32minfo[39m] [2023-04-10T05:28:31.647Z] DELETE /staffs/64338b0ecee8b90d2218cb2d
+[2023-04-10 12:28:31] [[34mdebug[39m] staffs.findOneAndDelete
+[2023-04-10 12:28:35] [[32minfo[39m] [2023-04-10T05:28:35.911Z] GET /staffs
+[2023-04-10 12:28:35] [[34mdebug[39m] staffs.find
+[2023-04-10 12:29:02] [[32minfo[39m] [2023-04-10T05:29:02.020Z] GET /events/workflow
+[2023-04-10 12:29:02] [[34mdebug[39m] events.insertOne
+[2023-04-10 12:29:02] [[34mdebug[39m] rules.find
+[2023-04-10 12:29:02] [[34mdebug[39m] staffs.find
+[2023-04-10 12:29:02] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 12:29:02] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:29:02] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:29:02] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:29:02] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:29:02] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:31:10] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:31:10] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:31:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:31:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:31:16] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:31:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:31:41] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:32:37] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:32:38] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:32:45] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:32:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:32:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:33:07] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:33:08] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:33:10] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:33:11] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:33:17] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:33:18] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:33:19] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:33:20] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:33:32] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:33:33] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:33:57] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:33:58] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:34:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:34:01] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:34:06] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:34:07] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:34:10] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:34:11] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:34:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:34:14] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:34:15] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:34:16] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:34:24] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:34:25] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:34:28] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:34:29] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:34:33] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:34:33] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:34:35] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:34:36] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:35:04] [[32minfo[39m] [2023-04-10T05:35:04.193Z] GET /events/workflow
+[2023-04-10 12:35:04] [[34mdebug[39m] events.insertOne
+[2023-04-10 12:35:04] [[34mdebug[39m] rules.find
+[2023-04-10 12:35:04] [[34mdebug[39m] staffs.find
+[2023-04-10 12:35:04] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 12:35:04] [[34mdebug[39m] notifications.updateOne
+[2023-04-10 12:35:04] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:35:04] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:35:04] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:35:04] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:35:04] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:36:02] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:36:03] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:36:04] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:36:05] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:36:06] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:36:07] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:36:11] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:36:12] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:36:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:36:39] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:36:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:36:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:36:55] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:36:56] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:37:11] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:37:12] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:37:13] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:37:18] [[32minfo[39m] [2023-04-10T05:37:18.214Z] GET /events/workflow
+[2023-04-10 12:37:18] [[34mdebug[39m] events.insertOne
+[2023-04-10 12:37:18] [[34mdebug[39m] rules.find
+[2023-04-10 12:37:18] [[34mdebug[39m] staffs.find
+[2023-04-10 12:37:18] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 12:37:18] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:37:18] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:37:18] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:37:18] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:37:18] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:37:18] [[34mdebug[39m] notifications.findOne
+[2023-04-10 12:37:46] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:37:46] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:37:52] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:37:53] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:37:56] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:37:56] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:38:00] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:38:01] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:38:07] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:38:08] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:38:08] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:40:26] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:40:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:40:34] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:40:35] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:40:37] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:40:38] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:40:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:40:40] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:40:41] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:40:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:40:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:40:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:40:54] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:40:58] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:40:59] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:41:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:41:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:41:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:41:13] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:41:15] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:41:15] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:41:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:41:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:41:26] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:41:26] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:42:50] [[32minfo[39m] [2023-04-10T05:42:50.614Z] POST /staffs
+[2023-04-10 12:42:50] [[34mdebug[39m] staffs.insertOne
+[2023-04-10 12:42:55] [[32minfo[39m] [2023-04-10T05:42:55.015Z] POST /staffs
+[2023-04-10 12:42:55] [[34mdebug[39m] staffs.insertOne
+[2023-04-10 12:43:01] [[32minfo[39m] [2023-04-10T05:43:01.829Z] POST /staffs
+[2023-04-10 12:43:01] [[34mdebug[39m] staffs.insertOne
+[2023-04-10 12:43:06] [[32minfo[39m] [2023-04-10T05:43:06.267Z] POST /staffs
+[2023-04-10 12:43:06] [[34mdebug[39m] staffs.insertOne
+[2023-04-10 12:43:12] [[32minfo[39m] [2023-04-10T05:43:12.283Z] GET /events/workflow
+[2023-04-10 12:43:12] [[34mdebug[39m] events.insertOne
+[2023-04-10 12:43:12] [[34mdebug[39m] rules.find
+[2023-04-10 12:43:12] [[34mdebug[39m] staffs.find
+[2023-04-10 12:43:12] [[31merror[39m] Error: Cannot compare non-Time object with Time object
+    at Time.compare (C:\Users\vutro\Workspace\node\BackendNodeJs\src\utils\time.js:30:13)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:72:27
+    at Array.filter (<anonymous>)
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:70:29
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 12:43:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:43:45] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:43:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:43:47] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:43:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:43:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:44:02] [[32minfo[39m] [2023-04-10T05:44:02.395Z] GET /staffs
+[2023-04-10 12:44:02] [[34mdebug[39m] staffs.find
+[2023-04-10 12:44:27] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:44:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:44:30] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:44:30] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:45:30] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:45:32] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:45:32] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:45:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:45:40] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:45:47] [[32minfo[39m] [2023-04-10T05:45:47.354Z] POST /staffs
+[2023-04-10 12:45:47] [[34mdebug[39m] staffs.insertOne
+[2023-04-10 12:45:54] [[32minfo[39m] [2023-04-10T05:45:54.203Z] POST /staffs
+[2023-04-10 12:45:54] [[34mdebug[39m] staffs.insertOne
+[2023-04-10 12:45:58] [[32minfo[39m] [2023-04-10T05:45:58.946Z] GET /events/workflow
+[2023-04-10 12:45:58] [[34mdebug[39m] events.insertOne
+[2023-04-10 12:45:59] [[34mdebug[39m] rules.find
+[2023-04-10 12:45:59] [[34mdebug[39m] staffs.find
+[2023-04-10 12:45:59] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 12:45:59] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:45:59] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:45:59] [[34mdebug[39m] notifications.findOne
+[2023-04-10 12:46:07] [[32minfo[39m] [2023-04-10T05:46:07.289Z] GET /events
+[2023-04-10 12:46:07] [[34mdebug[39m] events.find
+[2023-04-10 12:46:23] [[32minfo[39m] [2023-04-10T05:46:23.817Z] GET /products
+[2023-04-10 12:46:23] [[34mdebug[39m] products.find
+[2023-04-10 12:46:35] [[32minfo[39m] [2023-04-10T05:46:35.315Z] GET /notifications
+[2023-04-10 12:46:35] [[34mdebug[39m] notifications.find
+[2023-04-10 12:48:04] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:48:06] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:48:07] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:48:07] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:48:10] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:48:11] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:48:13] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:48:13] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:48:18] [[32minfo[39m] [2023-04-10T05:48:18.341Z] GET /events/workflow
+[2023-04-10 12:48:18] [[34mdebug[39m] events.insertOne
+[2023-04-10 12:48:18] [[34mdebug[39m] rules.find
+[2023-04-10 12:48:18] [[34mdebug[39m] staffs.find
+[2023-04-10 12:48:18] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 12:48:18] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:48:18] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 12:48:18] [[34mdebug[39m] notifications.findOne
+[2023-04-10 12:48:18] [[34mdebug[39m] notifications.findOne
+[2023-04-10 12:49:24] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 12:49:24] [[33mwarn[39m] [mongodb.js][onReconnected] MongoDB Atlas reconnected!
+[2023-04-10 12:49:41] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 12:49:42] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:29:27] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:29:29] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:31:34] [[32minfo[39m] [2023-04-10T06:31:34.771Z] GET /events/workflow
+[2023-04-10 13:31:34] [[34mdebug[39m] events.insertOne
+[2023-04-10 13:31:34] [[34mdebug[39m] rules.find
+[2023-04-10 13:31:34] [[34mdebug[39m] staffs.find
+[2023-04-10 13:31:35] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 13:31:35] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 13:31:35] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 13:31:35] [[34mdebug[39m] notifications.findOne
+[2023-04-10 13:31:35] [[34mdebug[39m] notifications.findOne
+[2023-04-10 13:32:41] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:32:42] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:32:45] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:32:53] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:32:55] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:32:57] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:33:01] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:33:02] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:33:08] [[32minfo[39m] [2023-04-10T06:33:08.487Z] GET /events/workflow
+[2023-04-10 13:33:08] [[34mdebug[39m] events.insertOne
+[2023-04-10 13:33:08] [[34mdebug[39m] rules.find
+[2023-04-10 13:33:08] [[34mdebug[39m] staffs.find
+[2023-04-10 13:33:08] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 13:33:08] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 13:33:08] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 13:33:08] [[34mdebug[39m] notifications.findOne
+[2023-04-10 13:34:18] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:34:19] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:34:32] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:34:33] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:34:39] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:34:43] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:34:44] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:34:46] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:34:47] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:34:48] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:34:59] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:35:00] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:35:04] [[32minfo[39m] [2023-04-10T06:35:04.883Z] GET /events/workflow
+[2023-04-10 13:35:04] [[34mdebug[39m] events.insertOne
+[2023-04-10 13:35:05] [[34mdebug[39m] rules.find
+[2023-04-10 13:35:05] [[34mdebug[39m] staffs.find
+[2023-04-10 13:35:05] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 13:35:05] [[31merror[39m] ReferenceError: query is not defined
+    at C:\Users\vutro\Workspace\node\BackendNodeJs\src\controllers\eventController.js:107:9
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-04-10 13:35:05] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 13:35:05] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 13:35:16] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:35:18] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:35:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:35:23] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:35:25] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:35:27] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:35:31] [[32minfo[39m] [2023-04-10T06:35:31.351Z] GET /events/workflow
+[2023-04-10 13:35:31] [[34mdebug[39m] events.insertOne
+[2023-04-10 13:35:31] [[34mdebug[39m] rules.find
+[2023-04-10 13:35:31] [[34mdebug[39m] staffs.find
+[2023-04-10 13:35:31] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 13:35:31] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 13:35:31] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 13:35:31] [[34mdebug[39m] rules.findOneAndUpdate
+[2023-04-10 13:36:50] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:36:51] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:36:56] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:36:57] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:36:57] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:37:03] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:37:03] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:37:07] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:37:08] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:37:10] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:37:11] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:37:14] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:37:14] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:37:21] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:37:22] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:37:24] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:37:25] [[32minfo[39m] [mongodb.js][onConnected] Connected to mongoDB  Atlas!
+[2023-04-10 13:37:29] [[32minfo[39m] [2023-04-10T06:37:29.562Z] GET /events/workflow
+[2023-04-10 13:37:29] [[34mdebug[39m] events.insertOne
+[2023-04-10 13:37:29] [[34mdebug[39m] rules.find
+[2023-04-10 13:37:29] [[34mdebug[39m] staffs.find
+[2023-04-10 13:37:29] [[34mdebug[39m] notifications.insertOne
+[2023-04-10 13:37:29] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 13:37:29] [[34mdebug[39m] staffs.updateOne
+[2023-04-10 13:37:29] [[34mdebug[39m] rules.findOneAndUpdate
+[2023-04-10 13:38:26] [[32minfo[39m] [server] Server started on port 8080
+[2023-04-10 13:38:29] [[32minfo[39m] [server] Server started on port 8080

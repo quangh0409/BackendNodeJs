@@ -1,13 +1,15 @@
-const eventBuilder = require('../controllers/eventController');
+const eventBuilder = require("../controllers/eventController");
 
-module.exports = app => {
+module.exports = (app) => {
   app
-    .route('/events')
+    .route("/events")
     .get(eventBuilder.getAllEvents)
     .post(eventBuilder.create);
-
   app
-    .route('/events/:eventId')
+    .route("/events/workflow")
+    .get(eventBuilder.workflow);
+  app
+    .route("/events/:eventId")
     .get(eventBuilder.getById)
     .put(eventBuilder.update)
     .delete(eventBuilder.delete);

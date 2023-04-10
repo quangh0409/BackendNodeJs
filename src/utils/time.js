@@ -1,71 +1,65 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 
-class Time extends mongoose.SchemaType {
-  constructor(key, options) {
-    super(key, options, "Time");
+class Time {
+  constructor(timeString) {
+    const [hours, minutes, seconds] = timeString.split(':').map((str) => parseInt(str));
+
+    if (isNaN(hours) || isNaN(minutes) || isNaN(seconds)) {
+      throw new Error(`Invalid time string: ${timeString}`);
+    }
+
+    this.hours = hours;
+    this.minutes = minutes;
+    this.seconds = seconds;
   }
 
-  cast(val) {
-    if (val === null) {
-      return val;
-    }
-
-    // Kiểm tra xem val có phải là định dạng HH:MM:SS hay không
-    const timeRegex = /^(\d{1,2}):(\d{1,2}):(\d{1,2})$/;
-    const match = timeRegex.exec(val);
-
-    if (match === null) {
-      throw new Error(`'${val}' is not a valid time in format HH:MM:SS`);
-    }
-
-    const hours = parseInt(match[1], 10);
-    const minutes = parseInt(match[2], 10);
-    const seconds = parseInt(match[3], 10);
-
-    if (hours < 0 || hours > 23) {
-      throw new Error(`'${hours}' is not a valid hour value`);
-    }
-
-    if (minutes < 0 || minutes > 59) {
-      throw new Error(`'${minutes}' is not a valid minute value`);
-    }
-
-    if (seconds < 0 || seconds > 59) {
-      throw new Error(`'${seconds}' is not a valid second value`);
-    }
-
-    const date = new Date();
-    date.setHours(Number(hours));
-    date.setMinutes(Number(minutes));
-    date.setSeconds(Number(seconds));
-
-    return date.toLocaleTimeString("en-US", { hour12: false });
+  getHours() {
+    return this.hours;
   }
 
-  // Hàm so sánh 2 đối tượng Time
+  getMinutes() {
+    return this.minutes;
+  }
+
+  getSeconds() {
+    return this.seconds;
+  }
+
   compare(otherTime) {
-    if (this.hours < otherTime.hours) {
-      return -1;
-    } else if (this.hours > otherTime.hours) {
-      return 1;
-    } else {
-      if (this.minutes < otherTime.minutes) {
-        return -1;
-      } else if (this.minutes > otherTime.minutes) {
-        return 1;
-      } else {
-        if (this.seconds < otherTime.seconds) {
-          return -1;
-        } else if (this.seconds > otherTime.seconds) {
-          return 1;
-        } else {
-          return 0;
+    if (!(otherTime instanceof Time)) {
+      throw new Error(`Cannot compare non-Time object with Time object`);
+    }
+
+    if (this.hours !== otherTime.hours) {
+      return this.hours - otherTime.hours;
+    }
+
+    if (this.minutes !== otherTime.minutes) {
+      return this.minutes - otherTime.minutes;
+    }
+
+    return this.seconds - otherTime.seconds;
+  }
+
+  static schemaType() {
+    class TimeSchemaType extends mongoose.SchemaType {
+      constructor(key, options) {
+        super(key, options, 'Time');
+      }
+
+      cast(val) {
+        if (val instanceof Time) {
+          return val;
         }
+
+        return new Time(val);
       }
     }
+
+    mongoose.Schema.Types.Time = TimeSchemaType;
+
+    return Time;
   }
 }
 
-mongoose.Schema.Types.Time = Time;
-
-module.exports = Time;
+module.exports = Time.schemaType();
